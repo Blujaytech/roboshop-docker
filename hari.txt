@@ -1,2 +1,0 @@
-hi "this is my first roboshop project"
-hi " Hi Guys i moved my infra code in my git hub"
